@@ -24,36 +24,13 @@ Store multiple accounts password
 Each account can have their own password to increase security
 ## Development setup
 
-Describe how to install all development dependencies and how to run an automated test-suite of some kind. Potentially do this for multiple platforms
+you need install python and run the program in terminal
 
 ```sh
 make install
 npm test
 ```
 
-## Release History
-
-- 0.2.1
-
-  -prototype
-
-- 0.2.0
-
-  - CHANGE: Remove `setDefaultXYZ()`
-  - ADD: Add `init()`
-
-- 0.1.1
-
-  - FIX: Crash when calling `baz()` (Thanks @GenerousContributorName!)
-
-- 0.1.0
-
-  - The first proper release
-  - CHANGE: Rename `foo()` to `bar()`
-
-- 0.0.1
-
-  - Work in progress
 
 ## Meta
 
@@ -66,7 +43,7 @@ Distributed under the XYZ license. See `LICENSE` for more information.
 
 ## Contributing
 
-1. Fork it (<https://github.com/yourname/yourproject/fork>)
+1. Fork it (<https://github.com/BABAYAGI/password-locker.git>)
 2. Create your feature branch (`git checkout -b feature/fooBar`)
 3. Commit your changes (`git commit -am 'Add some fooBar'`)
 4. Push to the branch (`git push origin feature/fooBar`)
