@@ -39,9 +39,6 @@ you need install python and run the program in terminal
 
 Darsan Hirani – [@darsan_hirani@hotmaiL.com](https://twitter.com/darsan_hirani) – darsanh907@gmail.com
 
-
-Distributed under the XYZ license. See `LICENSE` for more information.
-
 [https://github.com/BABAYAGI/](https://github.com/BABAYAGI/)
 
 ## Contributing
@@ -58,3 +55,6 @@ Distributed under the XYZ license. See `LICENSE` for more information.
 
 [wiki]: https://github.com/yourname/yourproject/wiki
 
+### License
+
+[MIT LICENSE](LICENSE)
