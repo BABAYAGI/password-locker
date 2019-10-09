@@ -37,9 +37,9 @@ you need install python and run the program in terminal
 
 ## Meta
 
-Darsan Hirani – [@darsan_hirani@hotmaiL.com](https://twitter.com/darsan_hirani) – darsanh907@gmail.com
+Darsan Hirani – [@darsan_hirani@hotmail.com](https://twitter.com/darsan_hirani) / darsanh907@gmail.com
 
-[https://github.com/BABAYAGI/](https://github.com/BABAYAGI/)
+Github account [https://github.com/BABAYAGI/](https://github.com/BABAYAGI/)
 
 ## Contributing
 
