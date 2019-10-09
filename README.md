@@ -16,8 +16,12 @@ As a user, you can delete a credentials account that you no longer need in the a
 ## Installation
 
 
-You need vs code and python to acces the application
-
+```sh
+./python_script_name.py
+```
+```sh
+chmod +x python_script_name.py
+```
 ## Usage example
 
 Store multiple accounts password
@@ -27,19 +31,18 @@ Each account can have their own password to increase security
 you need install python and run the program in terminal
 
 ```sh
-make install
-npm test
+!/usr/bin/env python3.6 /home/darsan/Documents/coreprojects/python/passwordlocker/password-vault.py
 ```
 
 
 ## Meta
 
-Darsan Hirani – [@darsan_hirani@hotmai.com](https://twitter.com/darsan_hirani) – darsanh907@gmail.com
+Darsan Hirani – [@darsan_hirani@hotmaiL.com](https://twitter.com/darsan_hirani) – darsanh907@gmail.com
 
 
 Distributed under the XYZ license. See `LICENSE` for more information.
 
-[https://github.com/yourname/github-link](https://github.com/dbader/)
+[https://github.com/BABAYAGI/](https://github.com/BABAYAGI/)
 
 ## Contributing
 
@@ -52,8 +55,6 @@ Distributed under the XYZ license. See `LICENSE` for more information.
 <!-- Markdown link & img dfn's -->
 
 [npm-downloads]: https://img.shields.io/npm/dm/datadog-metrics.svg?style=flat-square
-[npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
-[npm-url]: https://npmjs.org/package/datadog-metrics
-[travis-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square
-[travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
+
 [wiki]: https://github.com/yourname/yourproject/wiki
+
