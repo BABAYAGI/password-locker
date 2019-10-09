@@ -1,6 +1,10 @@
 import random 
 import pickle
 info = {}
+
+with open("game.p","br") as readfile:
+    info = pickle.load(readfile)
+print (info)
 s = "QWERTYUIOPLKJHGFDSAZXCVBNM,.;'[]=-qwertyuioplkjhgfdsazxcvbnm,.;']*-1234567890!@##$%^&*()_+"
 len_password = int(input("enter number of characters in password :")
 )
@@ -13,7 +17,7 @@ if("yes" in answer):
     info[account_name] = password
     print(info)
     with open ("game.p","bw") as filewrite:
-      pickle.dump(info,filewrite,)
+      pickle.dump(info,filewrite,protocol=2)
 
 else:
     print("ok")
